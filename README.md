@@ -1,3 +1,4 @@
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZyMGlmd2V1Mnp2eW1uZ21heGk1b2tqOXU3YnV1ZnV2b2ZweDk2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xQ7NKUKR2qg0jQ5uwC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Claudia García Talavera</h1>
 <h3 align="center">A passionate student</h3>
 
