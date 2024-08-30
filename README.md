@@ -1,4 +1,4 @@
-![Alt Text]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y3MG1sYXBkZ2trcDM1cDFpdTI3NTEwY2hmNXg2aGpob2N1bjJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif](https://www.behance.net/gallery/93484903/Pixel-Jeff-X-Divoom/modules/540194037))
+![Alt Text](https://www.behance.net/gallery/93484903/Pixel-Jeff-X-Divoom/modules/540194037)
 <h1 align="center">Hi 👋, I'm Claudia García Talavera</h1>
 <h3 align="center">A passionate student</h3>
 
