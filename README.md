@@ -1,4 +1,4 @@
-![Alt Text](https://www.behance.net/gallery/93484903/Pixel-Jeff-X-Divoom/modules/540194037)
+![Alt Text](https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif)
 <h1 align="center">Hi 👋, I'm Claudia García Talavera</h1>
 <h3 align="center">A passionate student</h3>
 
