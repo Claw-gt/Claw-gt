@@ -1,5 +1,6 @@
 ![Alt Text](https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif)
-<h1 align="center">Hi 👋, I'm Claudia</h1>
+# Hi 👋, I'm Claudia
+### Connect with me: [My Linkedin](linkedin.com/in/claudia-garcía-talavera-060289215)
 
 ## 42 Student
 |  Rank 0              |  Rank 1              | Rank 1               |     Rank 1           |     Rank 2           |
