@@ -2,8 +2,20 @@
 # Hi 👋, I'm Claudia
 ### Connect with me: [My Linkedin](linkedin.com/in/claudia-garcía-talavera-060289215)
 
+## 42 Piscine -> Level 8 :muscle:
+#### <ins>Projects</ins>
+
+| :computer: | [Shell 00](Pool-42/tree/main/git_sh00) | [Shell 01](Pool-42/tree/main/git_sh01) | [C00](Pool-42/tree/main/git_c00) | [C01](Pool-42/tree/main/git_c01) | [C02](Pool-42/tree/main/git_c02) | [C03](Pool-42/tree/main/git_c01) | [C04](Pool-42/tree/main/git_c01) | [C05](Pool-42/tree/main/git_c01) | [C06](Pool-42/tree/main/git_c01) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|**Score**| 100% | 70% |  77% | 100% | 85% | 100% | 85% | 80% | 100% |
+
+#### <ins>Exams</ins>
+| :hourglass: | Exam 00 |  Exam 01 |  Exam 02 |  Exam 03 |
+| :------: | :-----: | :------: | :------: | :------: |
+|**Score**| 30% :white_check_mark: |  60% :white_check_mark: |  90% :white_check_mark: | 60% :white_check_mark: |
+
 ## 42 Student
-#### Common Core Projects
+#### <ins>Common Core Projects</ins>
 |  Rank 0              |  Rank 1              | Rank 1               |     Rank 1           |     Rank 2           |
 | :------------------: | :------------------: | :------------------: | :------------------: | :------------------: |
 |[Libft](git_libft/tree/main) | [Born2BeRoot](git_born2beroot/tree/main) | [Printf](https://github.com/Claw-gt/git_printf/tree/main) | [Get_next_line](https://github.com/Claw-gt/git_gnl/tree/main) | [Push_Swap](https://github.com/Claw-gt/git_push_swap/tree/main) |
