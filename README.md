@@ -16,6 +16,6 @@
 
 ## 42 Student
 #### <ins>Common Core Projects</ins>
-|  Rank 0              |  Rank 1              | Rank 1               |     Rank 1           |     Rank 2           |
-| :------------------: | :------------------: | :------------------: | :------------------: | :------------------: |
-|[Libft](https://github.com/Claw-gt/git_libft/tree/main) | [Born2BeRoot](https://github.com/Claw-gt/git_born2beroot/tree/main) | [Printf](https://github.com/Claw-gt/git_printf/tree/main) | [Get_next_line](https://github.com/Claw-gt/git_gnl/tree/main) | [Push_Swap](https://github.com/Claw-gt/git_push_swap/tree/main) |
+|  Rank 0              |  Rank 1              | Rank 1               |     Rank 1           |     Rank 2           |  Rank 2   |  Rank   2   |
+| :------------------: | :------------------: | :------------------: | :------------------: | :------------------: | :--------: | :---------: |
+|[Libft](https://github.com/Claw-gt/git_libft/tree/main) | [Born2BeRoot](https://github.com/Claw-gt/git_born2beroot/tree/main) | [Printf](https://github.com/Claw-gt/git_printf/tree/main) | [Get_next_line](https://github.com/Claw-gt/git_gnl/tree/main) | [Push_Swap](https://github.com/Claw-gt/git_push_swap/tree/main) | [So_Long](https://github.com/Claw-gt/git_so_long/tree/main) | [Pipex](https://github.com/Claw-gt/git_pipex/tree/main) |
