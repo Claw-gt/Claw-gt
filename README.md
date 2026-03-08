@@ -19,3 +19,4 @@
 |  Rank 0              |  Rank 1              | Rank 1               |     Rank 1           |     Rank 2           |  Rank 2   |  Rank   2   |
 | :------------------: | :------------------: | :------------------: | :------------------: | :------------------: | :--------: | :---------: |
 |[Libft](https://github.com/Claw-gt/git_libft/tree/main) | [Born2BeRoot](https://github.com/Claw-gt/git_born2beroot/tree/main) | [Printf](https://github.com/Claw-gt/git_printf/tree/main) | [Get_next_line](https://github.com/Claw-gt/git_gnl/tree/main) | [Push_Swap](https://github.com/Claw-gt/git_push_swap/tree/main) | [So_Long](https://github.com/Claw-gt/so_long/tree/main) | [Pipex](https://github.com/Claw-gt/pipex/tree/main) |
+[Philo](https://github.com/Claw-gt/philo/tree/main) | [Minishell](https://github.com/Claw-gt/minishell/tree/main)
