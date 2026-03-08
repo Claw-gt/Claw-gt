@@ -12,7 +12,7 @@
 #### <ins>Exams</ins>
 | :hourglass: | Exam 00 |  Exam 01 |  Exam 02 |  Exam 03 |
 | :------: | :-----: | :------: | :------: | :------: |
-|**Score**| 30% :white_check_mark: |  60% :white_check_mark: |  90% :white_check_mark: | 60% :white_check_mark: |
+|**Score**| 30% |  60% :white_check_mark: |  90% :white_check_mark: | 60% :white_check_mark: |
 
 ## 42 Student
 #### <ins>Common Core Projects</ins>
